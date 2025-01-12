@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "711182591032",
+    "project_id": "gamex-b5093",
+    "storage_bucket": "gamex-b5093.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711182591032:android:e9d78dbf298300471ab2cd",
+        "android_client_info": {
+          "package_name": "com.sachin.gamex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO29Kp08w5y_DswldH9bEB3hJ8g7cqD3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

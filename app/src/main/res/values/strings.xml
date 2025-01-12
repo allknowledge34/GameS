@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GameX</string>
+    <string name="best_seller_product">Best Seller Product</string>
+    <string name="sell_all">Sell all</string>
+    <string name="my_cart">My Cart</string>
+    <string name="subtotal">Subtotal</string>
+    <string name="free_delivery">Free Delivery</string>
+    <string name="total_tax">Total Tax</string>
+    <string name="total">Total</string>
+    <string name="payment_method">Payment Method</string>
+    <string name="pay_cash_when_the_medicine_arrives_at_the_destination">Pay Cash When the medicine arrives at the destination</string>
+    <string name="fee_delivery">fee_delivery</string>
+</resources>
