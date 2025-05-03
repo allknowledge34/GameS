@@ -53,9 +53,7 @@
                 android:clipToPadding="false"
                 android:paddingStart="8dp"
                 android:paddingTop="8dp"
-                android:paddingEnd="8dp"
-                android:visibility="gone"
-                tools:visibility="visible" />
+                android:paddingEnd="8dp" />
 
         </LinearLayout>
     </ScrollView>
